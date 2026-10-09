@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération
 
-Commentaire d'un texte de droit français : **loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération** (JORF du 11 septembre 1947). Il couvre **103 articles** répartis en **4 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération** (JORF du 11 septembre 1947). Il couvre **105 articles** (103 articles en vigueur et 2 articles abrogés, reproduits pour que la numérotation soit complète) répartis en **4 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 La loi constitue le statut général, le « droit commun », des sociétés coopératives françaises : définition et principes de la coopération, règle « un membre, une voix », associés non coopérateurs, parts sociales et leur commercialisation, limitation de l'intérêt servi au capital, ristourne, réserves impartageables et dévolution désintéressée de l'actif, unions d'économie sociale, société coopérative d'intérêt collectif (SCIC), certificats coopératifs d'investissement et d'associés, publicité, contrôle, révision coopérative, perte de la qualité de coopérative, sanctions pénales, société coopérative européenne (SCE) et coopérative d'activité et d'emploi (CAE).
 

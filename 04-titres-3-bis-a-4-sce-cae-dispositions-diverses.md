@@ -552,6 +552,22 @@ L'article 27 articule la loi avec le droit commun des sociétés commerciales. L
 
 Le deuxième alinéa abaisse le capital minimum des coopératives constituées sous forme de sociétés par actions : par dérogation à l'article L. 224-2 du code de commerce, il ne peut être inférieur à la moitié du montant minimal prévu par cet article. Le troisième alinéa sanctionne le non-respect de ce minimum : la dissolution peut être demandée par tout intéressé ou par le ministère public. Le tribunal peut accorder un délai maximal de six mois, renouvelable une fois, pour régulariser, et ne peut prononcer la dissolution si la régularisation a eu lieu au jour où il statue sur le fond. La sanction est ainsi conçue comme un instrument de régularisation plutôt que d'élimination.
 
+### Article 27 bis
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2014-08-02 par LOI n°2014-856 du 31 juillet 2014 - art. 24)
+
+L'article 27 bis se situait au titre IV, consacré aux dispositions diverses, à la suite de l'article 27, qui écarte l'application aux coopératives de certaines dispositions du code de commerce. Selon la source, il est abrogé à compter du 2 août 2014 par l'article 24 de la loi n° 2014-856 du 31 juillet 2014 ; son texte n'est pas reproduit et le commentaire ne le reconstitue pas. L'abrogation prive d'objet actuel le III de l'article 29 bis, qui adapte encore, pour la Nouvelle-Calédonie, le premier alinéa de l'article 27 bis.
+
+### Article 28
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2014-08-02 par LOI n°2014-856 du 31 juillet 2014 - art. 24)
+
+L'article 28 du titre IV est abrogé à compter du 2 août 2014 par l'article 24 de la loi n° 2014-856 du 31 juillet 2014, en même temps que l'article 27 bis, selon la source, qui ne reproduit pas son contenu. Le titre IV se poursuit avec l'article 28 bis, relatif à la transformation d'une association déclarée en société coopérative, et l'article 29, qui étend l'application de la loi aux départements et territoires d'outre-mer.
+
 ### Article 28 bis
 
 **Texte de la disposition:**
@@ -606,7 +622,7 @@ L'article 29 rend la loi applicable aux départements et territoires d'outre-mer
 
 L'article 29 bis règle l'application en Nouvelle-Calédonie. Le I énumère les textes modificatifs de la présente loi qui y sont également applicables : la loi n° 56-745 du 30 juillet 1956, l'article 26 de la loi n° 84-148 du 1er mars 1984, l'article premier de la loi n° 85-703 du 12 juillet 1985, les articles 64-II et 64-III de la loi n° 87-416 du 17 juin 1987, l'article 32-I de la loi n° 91-5 du 3 janvier 1991, les articles 1er à 19 de la loi n° 92-643 du 13 juillet 1992 et les articles 64 et 66 de la loi n° 93-121 du 27 janvier 1993. Une note de la source indique que l'article 26 de la loi n° 84-148 a été abrogé par l'ordonnance n° 2000-912 du 18 septembre 2000.
 
-Le II adapte la liste des personnes morales de l'économie sociale de l'article 19 bis, deuxième alinéa, à l'organisation de la Nouvelle-Calédonie, en visant notamment les sociétés d'assurance mutuelles régies par les dispositions du code des assurances applicables localement. Le III adapte le premier alinéa d'un article 27 bis, absent de la version consolidée, en substituant à la référence à la loi n° 92-643 du 13 juillet 1992 et à un délai de cinq ans une référence à la loi n° 96-609 du 5 juillet 1996 et un délai de deux ans ; le commentaire se borne à constater ce renvoi sans reconstituer la disposition modifiée.
+Le II adapte la liste des personnes morales de l'économie sociale de l'article 19 bis, deuxième alinéa, à l'organisation de la Nouvelle-Calédonie, en visant notamment les sociétés d'assurance mutuelles régies par les dispositions du code des assurances applicables localement. Le III adapte le premier alinéa de l'article 27 bis, abrogé depuis le 2 août 2014 selon la source, en substituant à la référence à la loi n° 92-643 du 13 juillet 1992 et à un délai de cinq ans une référence à la loi n° 96-609 du 5 juillet 1996 et un délai de deux ans ; l'abrogation de l'article 27 bis prive cette adaptation d'objet actuel, et le commentaire se borne à constater le renvoi sans reconstituer la disposition modifiée.
 
 La NOTA reproduit l'article 222 IV de la loi organique n° 99-209 du 19 mars 1999, selon lequel les références au « territoire », à « l'assemblée territoriale » et à « l'exécutif » de la Nouvelle-Calédonie doivent être lues comme visant respectivement la Nouvelle-Calédonie, son congrès et son gouvernement. Elle comporte en outre un fragment (« pourra prononcer la dissolution si, au jour où il statue sur le fond, la régularisation a eu lieu ») qui paraît détaché d'une autre disposition et que le commentaire reproduit tel qu'il figure dans la source.
 

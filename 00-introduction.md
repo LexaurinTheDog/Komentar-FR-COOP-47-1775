@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 47-1775 du 10 septembre 1947, examinée article par article — **103 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 47-1775 du 10 septembre 1947, examinée article par article — **105 articles** : les 103 articles en vigueur dans leur rédaction consolidée et 2 articles abrogés, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -24,7 +24,7 @@ Le commentaire est réparti en quatre chapitres :
 3. Titre III — contrôle, révision coopérative et sanctions (art. 20 à 26) ;
 4. Titres III bis à IV — SCE, CAE et dispositions diverses (art. 26-1 à 30).
 
-La version consolidée ne reproduit que les articles en vigueur ; les numéros qui n'y figurent pas (ainsi les articles 27 bis ou 28) ne sont pas commentés. Lorsque des articles en vigueur renvoient à des dispositions absentes de la version consolidée (ainsi l'article 29 bis, III, qui adapte un article 27 bis) ou à une numérotation ancienne d'autres codes (ainsi l'article 19 quindecies, qui cite des articles du code du travail dans leur numérotation antérieure), le commentaire le signale sans reconstituer le contenu des dispositions en cause. Les particularités matérielles de la source (« voie » pour « voix » à l'article 19 octies, fragment de texte dans la NOTA de l'article 29 bis) sont reproduites telles quelles et signalées.
+Les articles abrogés 27 bis et 28 sont reproduits tels que la source les présente, avec la date et le texte d'abrogation, afin que la numérotation soit complète ; ils font l'objet d'un commentaire bref qui ne reconstitue pas leur contenu. Lorsque des articles en vigueur renvoient à des dispositions abrogées (ainsi l'article 29 bis, III, qui adapte l'article 27 bis) ou à une numérotation ancienne d'autres codes (ainsi l'article 19 quindecies, qui cite des articles du code du travail dans leur numérotation antérieure), le commentaire le signale sans reconstituer le contenu des dispositions en cause. Les particularités matérielles de la source (« voie » pour « voix » à l'article 19 octies, fragment de texte dans la NOTA de l'article 29 bis) sont reproduites telles quelles et signalées.
 
 ## Méthode
 
